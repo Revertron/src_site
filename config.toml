@@ -1,0 +1,9 @@
+baseURL = "https://infoanarchy.github.io/"
+languageCode = "ru-RU"
+title = "Infoanarchy"
+theme = 'book'
+
+enableGitInfo = true
+BookRepo = 'https://github.com/infoanarchy/infoanarchy.github.io'
+BookEditPath = 'edit/master/infoanarchy.github.io'
+
