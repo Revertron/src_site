@@ -3,9 +3,7 @@ title: Где что искать?
 type: docs
 ---
 
-
-### Варез линкс
-##### Софт на пекарню:  
+### Софт на пекарню:  
 - [alternativeto.net](https://alternativeto.net/) - Хороший, годный ресурс для поиска софта и аналогов к нему.
 - [irdevelopers.com](https://irdevelopers.com/)
 - [rsload.net](https://rsload.net/)
@@ -15,15 +13,15 @@ type: docs
 - [teamos-hkrg.com](https://teamos-hkrg.com/index.php)
 - [karanpc.com](https://karanpc.com/) - Варез, кряки, репаки, кейгены. 
 
-##### Софт на ведроид:
-- [4pda.ru](http://4pda.ru/) - Без иронии. После наступления чебурнета эта файлопомойка начнёт массово тереть варез, лишь бы её не заблочили. Качай пока не поздно.
+### Софт на ведроид:
+- [4pda.ru](http://4pda.ru/)
 - [apk4fun.com](https://www.apk4fun.com/)
 - [apkmirror.com](https://www.apkmirror.com/) 
 - [apkpure.com](apkpure.com) 
 - [trashbox.ru](https://trashbox.ru/)
 - [mob.org](https://mob.org/) 
 
-##### Игры:
+### Игры:
 - [Skidrow](https://www.skidrowcodex.net/), [CPY](https://cpy-crack.com/) - Годные репакеры, в отличие от наших действительно ничего не вырезают и не перекодируют. Не ставят ватермарки, не вшивают заставки и рекламу. И уж тем более ничего не переводят. 
 - [isohunt.ee](http://isohunt.ee/) 
 - [small-games.info](https://small-games.info/) - Осторожнее, очень много локализации. Но можно найти и оригиналы. 
@@ -46,7 +44,7 @@ type: docs
 -[freeroms.com](https://www.freeroms.com/)
 -[romhustler.net](https://romhustler.net/)  
 
-##### Кинцо и сериалы:
+### Кинцо и сериалы:
 - [yts.lt](https://yts.lt/) - Практически все поделия Голливуда (и не только) в хорошем качестве и относительно небольшом размере. Домен именно .am, всё остальное фишинг с фильмами без видеоряда, которые предлагают скачать плагин для воспроизведения.
 - [ettv.tv](https://www.ettv.to/)
 - [eztv.io](https://eztv.io/)
@@ -58,7 +56,7 @@ type: docs
 - [subtitry.ru](https://subtitry.ru/)
 - [vse-subtitri.ru](http://vse-subtitri.ru/) 
 
-##### Литература:
+### Литература:
 - [pdfstop.com](https://pdfstop.com/)
 - [bookflare.net](https://bookflare.org/)
 - [read-any-book.com](https://read-any-book.com/)
@@ -93,8 +91,9 @@ type: docs
 - [200 гигов Computer science литературы на ангельском.](https://torrentz.run/user/j3w1/)
 - [Много книг советского периода](http://www.ph4s.ru/)
 - [Книго-помойка матмеха](http://vzvod621.narod.ru/)
+- https://sheba.spb.ru/ - советские книги и аудио
 
-##### Всё и сразу:
+### Всё и сразу:
 - [katcr.co]() - **Осторожно, KickAssTorrents имеет очень много фишинговых "зеркал". Причём ни один антифишинг их не распознаёт.**
 - [proxybay.bet](https://proxybay.bet/) - Зеркала ThePirateBay. Иногда показывает что зеркала недоступны, даже если они доступны.
 - [rutracker.org](rutracker.org) 
@@ -108,16 +107,15 @@ type: docs
 - [rarbg.to](rarbg.to)
 - https://rarbgmirror.xyz/ - много прона без регистрации.
 
-##### Поисковики
+### Поисковики
 - https://krasfs.ru/
 - https://www.digbt.org/
 - https://btdig.com/index.htm
 
-#### Линки от анонов
+### Линки от анонов
 - http://www.infoanarchy.org/ - вики инфоанархистов
 - https://wiki.bibanon.org/ - библия анона
 - chanlit.wikia.com
 - tv-televisionandfilm.fandom.com
 - vsrecommendedgames.fandom.com Адвайс листы и рекомендации по книгам, фильмам, тв-шоу и играмот 4чана.
-- https://sheba.spb.ru/ - советские книги и аудио
 
