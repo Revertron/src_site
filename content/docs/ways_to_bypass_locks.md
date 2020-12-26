@@ -19,7 +19,6 @@ https://github.com/wireapp
 https://github.com/wireapp/wire-server
 
 
-
 ## Bitmessage
 
 https://bitmessage.org/wiki/Main_Page

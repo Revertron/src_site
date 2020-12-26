@@ -1,8 +1,7 @@
 ---
-title: Network Attached Storage
+title: Создание домашней файлопомойки
 type: docs
 ---
-
 
 ## Network Attached Storage
 
