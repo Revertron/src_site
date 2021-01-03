@@ -1,7 +1,15 @@
 baseURL = "https://infoanarchy.github.io/"
-languageCode = "ru-RU"
+languageCode = "ru"
 title = "Infoanarchy"
 theme = 'book'
+
+defaultContentLanguage = "ru"
+
+[languages]
+[languages.ru]
+  languageName = 'Russian'
+  contentDir = 'content'
+  weight = 1
 
 # Book configuration
 disablePathToLower = true

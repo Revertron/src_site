@@ -17,7 +17,7 @@ type: docs
 - [4pda.ru](http://4pda.ru/)
 - [apk4fun.com](https://www.apk4fun.com/)
 - [apkmirror.com](https://www.apkmirror.com/) 
-- [apkpure.com](apkpure.com) 
+- [apkpure.com](https://apkpure.com) 
 - [trashbox.ru](https://trashbox.ru/)
 - [mob.org](https://mob.org/) 
 
@@ -25,7 +25,7 @@ type: docs
 - [Skidrow](https://www.skidrowcodex.net/), [CPY](https://cpy-crack.com/) - Годные репакеры, в отличие от наших действительно ничего не вырезают и не перекодируют. Не ставят ватермарки, не вшивают заставки и рекламу. И уж тем более ничего не переводят. 
 - [isohunt.ee](http://isohunt.ee/) 
 - [small-games.info](https://small-games.info/) - Осторожнее, очень много локализации. Но можно найти и оригиналы. 
-- [igg-games.com](igg-games.com)
+- [igg-games.com](http://igg-games.com/)
 - [apunkagames.com](https://apunkagames.com/) 
 - [fullypcgames.net](http://www.fullypcgames.net/) - Ставят пароль на некоторые архивы. Пароль один и тот же. 
 - [myplaycity.com](https://www.myplaycity.com/) - Платные игры задаром, при том легально. Правда рекламы дохуя, но её можно выпилить. 
@@ -49,7 +49,7 @@ type: docs
 - [ettv.tv](https://www.ettv.to/)
 - [eztv.io](https://eztv.io/)
 - [pirateiro.com](http://pirateiro.com/) 
-- [nyaa.si](nyaa.si) - В основном анима, но есть и нормальный контент.
+- [nyaa.si](https://nyaa.si/) - В основном анима, но есть и нормальный контент.
 - [opensubtitles.org](https://www.opensubtitles.org/ru) - Субтитры практически ко всему и практически на всех языках.
 Если русских субтитров нет на OpenSubtitles, то они есть здесь:
 - [subs.com.ru](http://subs.com.ru/)
@@ -87,7 +87,7 @@ type: docs
 - [FANTLAB](http://fantlab.ru/)
 - [Android Club](http://smartoff.net/opds/)
 - [Проект Gutenberg](http://m.gutenberg.org )
-- [opdsHome](opdshome.uo1.net/ )
+- [opdsHome](https://opdshome.uo1.net/)
 - [200 гигов Computer science литературы на ангельском.](https://torrentz.run/user/j3w1/)
 - [Много книг советского периода](http://www.ph4s.ru/)
 - [Книго-помойка матмеха](http://vzvod621.narod.ru/)
@@ -96,15 +96,15 @@ type: docs
 ### Всё и сразу:
 - [katcr.co]() - **Осторожно, KickAssTorrents имеет очень много фишинговых "зеркал". Причём ни один антифишинг их не распознаёт.**
 - [proxybay.bet](https://proxybay.bet/) - Зеркала ThePirateBay. Иногда показывает что зеркала недоступны, даже если они доступны.
-- [rutracker.org](rutracker.org) 
-- [tfile.co](tfile.co)
-- [nnm-club.me](nnm-club.me) 
-- [torlock.com](torlock.com) - Платит юзерам 1 доллар за нахождение фейкового торрента. Так что можно качать без опасения.
-- [1337x.to](1337x.to)
+- [rutracker.org](https://rutracker.org/) 
+- [tfile.co](https://tfile.co/)
+- [nnm-club.me](https://nnm-club.me) 
+- [torlock.com](https://torlock.com) - Платит юзерам 1 доллар за нахождение фейкового торрента. Так что можно качать без опасения.
+- [1337x.to](https://1337x.to)
 - [torrentking.eu](https://torrentking.eu/)
-- [torrentz2.eu](torrentz2.eu)
-- [torrentfunk.com](torrentfunk.com)
-- [rarbg.to](rarbg.to)
+- [torrentz2.eu](https://torrentz2.eu)
+- [torrentfunk.com](https://torrentfunk.com)
+- [rarbg.to](https://rarbg.to) - много прона без регистрации.
 - https://rarbgmirror.xyz/ - много прона без регистрации.
 
 ### Поисковики
@@ -113,7 +113,7 @@ type: docs
 - https://btdig.com/index.htm
 
 ### Линки от анонов
-- http://www.infoanarchy.org/ - вики инфоанархистов
+- http://www.infoanarchy.org/ - вики инфоанархистов (Утеряна)
 - https://wiki.bibanon.org/ - библия анона
 - chanlit.wikia.com
 - tv-televisionandfilm.fandom.com
