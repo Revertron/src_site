@@ -5,11 +5,11 @@ theme = 'book'
 
 defaultContentLanguage = "ru"
 
-[languages]
-[languages.ru]
-  languageName = 'Russian'
-  contentDir = 'content'
-  weight = 1
+#[languages]
+#[languages.ru]
+#  languageName = 'Russian'
+#  contentDir = 'content'
+#  weight = 1
 
 # Book configuration
 disablePathToLower = true

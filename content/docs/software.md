@@ -9,4 +9,7 @@ type: docs
 
 + Для скачивания шебемочек с различных сайтиков (Instagram, tumblr, YouTube, SoundCloud mp3, Facebook, VK, Xvideos, Putlocker, Vimeo ...) подойдёт [Tube Offline](https://www.tubeoffline.com/)
 
++ Скачивать потоковое видео можно найдя на странице ссылку `.m3u8` в панели разработчика F12 или Ctrl+Shift+J. Эту ссылку вставляем в VLC "Медиa -> Открыть URL" в меню воспоизведения выбираем поток.
+Далее во вкладке вывод потока можно сохранить поток в файл. 
+
 
