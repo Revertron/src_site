@@ -28,6 +28,7 @@ https://github.com/Potya/OimpLections - Основы и методология �
 https://github.com/eucariot/SDSM- Сети для самых маленьких  
 https://github.com/slowli/software-engineering-lectures - Лекции по программной инженерии  
 https://github.com/fhunter/unix-lectures - Лекции по командной строке и unix.  
+https://neuralnet.info/ - машинное обучение  
 
 ## latex
 https://github.com/ledovsky/latex-gost-template - Шаблон для создания latex документов по ГОСТ  
