@@ -3,14 +3,16 @@ title: Обход блокировок
 type: docs
 ---
 
+## Обмен файлами  
+https://getsurge.io/ - Перспективная утилита для анонимного обмена файлами.  
 
-## TOX 
+### TOX 
 
 https://tox.chat/
 
 http://www.spy-soft.net/ustanovka-nastrojka-rabota-s-anonimnym-messendzherom-tox/
 
-## WIRE. 
+### WIRE. 
 
 Клиент:
 https://github.com/wireapp
@@ -19,19 +21,21 @@ https://github.com/wireapp
 https://github.com/wireapp/wire-server
 
 
-## Bitmessage
+### Bitmessage
 
 https://bitmessage.org/wiki/Main_Page
 
 https://book.cyberyozh.com/ru/bitmessage-samyij-anonimnyij-messendzher/
 
-## Tor
+## Анонимные оверлейные сети
+
+### Tor
 
 https://www.torproject.org/
 
 https://ru.wikipedia.org/wiki/Tor
 
-## I2P
+### I2P
 
 https://habr.com/en/post/97827/
 
@@ -39,13 +43,13 @@ https://geti2p.net/ru/
 
 https://github.com/PurpleI2P/i2pd
 
-## Freenet
+### Freenet
 
 http://zenway.ru/page/freenet
 
 https://freenetproject.org/
 
-## Retroshare
+### Retroshare
 
 https://adorabilis.wordpress.com/rs-quick-entering/
 
@@ -53,7 +57,9 @@ https://habr.com/en/post/279031/
 
 http://retroshare.cc/
 
-## GoodbyeDPI
+## Обход DPI
+
+### GoodbyeDPI
 
 https://bitbucket.org/ValdikSS/goodbyedpi
 
@@ -66,9 +72,9 @@ https://book.cyberyozh.com/ru/?fl=ru
 
 http://www.ifap.ru/library/book534.pdf - Настольная книга кибердиссидента
 
-# Mesh сети
+## Mesh сети
 
-https://github.com/russian-meshnet/meshnet-chat-agenda - оче годное русское сообщество.
+https://github.com/russian-meshnet/meshnet-chat-agenda - очень годное русское сообщество.
 
 https://www.reddit.com/r/ru_meshnet
 
@@ -77,7 +83,7 @@ https://www.reddit.com/r/ru_meshnet
 ### Linux Kodachi
 
 Имеет встроеный впн, который оплачивает создатель, если заподозрит тебя в чём-то нехорошем - отрубит.
-Так что анонимность так себе, но в остальном оче хорош.
+Так что анонимность так себе, но в остальном очень хорош.
 
 https://sourceforge.net/projects/linuxkodachi/
 
