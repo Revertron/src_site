@@ -54,3 +54,13 @@ http://canarytokens.org/generate
 https://etlgr.io/conversations/ТЕЛЕГРАМ_ID/subscription (куда привязан профиль)  
 https://my-medon.aviasales.ru/list?key=tg:ТЕЛЕГРАМ_ID (куда привязан профиль)  
 https://github.com/soxoj/telegram-bot-dumper (выгрузка)  
+
+### vk  
+
+https://vk.watch —  инструмент для поиска информации о людях ВКонтакте.  
+
+### Поисковики
+https://search4faces.com/ — сервис поиска по фотографии. Разумеется, не забываем еще про FindClone.   
+https://checkusernames.com/ — ищет упоминания юзернейма в более, чем 170 социальных сетях.   
+https://hunter.io/ — ищет почтовые адреса определенной организации или домену.   
+https://spyse.com/ (https://spyse.com/) — поисковая система по кибербезопасности для получения технической информации, которая обычно используется некоторыми хакерами в киберразведке.  
