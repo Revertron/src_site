@@ -55,4 +55,5 @@ https://github.com/russian-meshnet/faq - Сообщество по mesh сетя
 https://github.com/netstalking-core/netstalking-catalogue - Сообщество по поиску в сети  
 
 ## GNU/linux gaming
-https://github.com/LinuxCafeFederation/awesome-gnu-linux-gaming
+https://github.com/LinuxCafeFederation/awesome-gnu-linux-gaming - Самая большая сборка тонкостей про гейминг под linux  
+https://tkashkin.tk/ - единый интерфейс для настройки и запуска игр под linux  
