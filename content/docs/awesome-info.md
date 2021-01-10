@@ -1,5 +1,5 @@
 ---
-title: Ссылки на лекции и обучающие материалы
+title: Ссылки на обучающие и полезные материалы
 type: docs
 ---
 
@@ -54,4 +54,5 @@ https://xeon-e5450.ru/ https://github.com/ThinkPadThink/Guide2011-3 - Испол
 https://github.com/russian-meshnet/faq - Сообщество по mesh сетям и распределённым системам  
 https://github.com/netstalking-core/netstalking-catalogue - Сообщество по поиску в сети  
 
-
+## GNU/linux gaming
+https://github.com/LinuxCafeFederation/awesome-gnu-linux-gaming
